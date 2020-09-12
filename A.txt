@@ -1,0 +1,5 @@
+This is the first line of the file A
+
+This is a modification of file A.
+
+This is the second modification of file A.
