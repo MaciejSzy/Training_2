@@ -1,3 +1,0 @@
-'File B, first line created by cmd prompt'
-
-The first change of file B. 
